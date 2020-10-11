@@ -1,11 +1,9 @@
-# Write your query or mutation here
 query getSingleSample {
 	getSingleSample {
     type
   }
 }
 
-# Write your query or mutation here
 query getMultiSample {
 	getMultiSample(type:"Car") {
     type
